@@ -1,3 +1,5 @@
+##Author Mori Isaac
+
 import random
 number = int(input("Input Pin Number: "))
 trial = 0
