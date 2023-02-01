@@ -1,4 +1,4 @@
-##Author Mori Isa
+##Author Mori Isaa
 
 import random
 number = int(input("Input Pin Number: "))
